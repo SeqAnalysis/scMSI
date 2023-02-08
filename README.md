@@ -4,6 +4,7 @@ scMSI: accurately estimating the Micro-Satellite Instability on sub-clones by a 
 
 scMSI adopts an alternating iterative model to de-convolute the length distribution, which is a mixture of sub-clones. The two optimization stages are coordinated and gradually alternated to eliminate the mixed microsatellite length distribution in tumors and quantify the the microsatellite length distribution parameters. Finally, a joint deconvolution on batch microsatellite length distribution data in parallel is performed by scMSI to speed up operations.
 
+![image](https://user-images.githubusercontent.com/81967713/217526985-232c0da1-5a05-47b6-866d-5a8d6be0073b.png)
 
 
 Python package versions

@@ -191,7 +191,7 @@ class SCMSIMixture(SCMSIBase):
             m0=None,
             v0=None,
             w0=None,
-            random_state=42,
+            random_state=99,
             warm_start=False,
             diffuse=0,
             diffuse_val=10,

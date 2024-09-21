@@ -27,4 +27,6 @@ matplotlib  3.3.2
 Example Usage
 --
 
-For example usage, please refer to the example folder, which contains test cases and test data. The core code is in the code folder
+For detailed instructions on how to use the software, please refer to the scMSI_deploymentGuide, scMSI_installationGuide, and scMSI_testingDocumentation. These guides provide step-by-step directions for deployment, installation, and testing procedures.
+
+For example usage, please check the example folder, which contains test cases and test data to help you get started. The core functionality of the software is located in the code folder.
